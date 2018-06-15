@@ -9,6 +9,7 @@ import SecondScreen from './screens/secondScreen';
 const DrawerExample = createDrawerNavigator({
   First: {
     screen: FirstScreen,
+    
   },
   Second: {
     screen: SecondScreen,
